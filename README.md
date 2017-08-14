@@ -17,3 +17,5 @@ The testing has it's own application defined, with specific database configurati
 To run the tests simply run test_sample.py or use the command python -m unittest test_sample.TestUsersHandler
 
 ![selection_013](https://user-images.githubusercontent.com/30981317/29261438-223fa37c-80d8-11e7-9eb3-8ecff554de16.png)
+
+![selection_016](https://user-images.githubusercontent.com/30981317/29261586-f0f451d6-80d8-11e7-8b48-63f787a04026.png)
